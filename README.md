@@ -9,8 +9,6 @@ You will need a basic understanding of Terraform (HCL syntax, variables, provide
 ## Steps to Create a static website on AWS using Terraform
 Start by creating an S3 bucket to store your website files. Ensure the bucket name is unique.
 
-## Project starts here
-
 ## Define AWS provider
 
 ## Create s3 bucket
